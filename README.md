@@ -18,14 +18,21 @@ Advanced Game Development student at **UADE** (Buenos Aires, Argentina) · Avail
 
 ## 🧑‍💻 About me
 
-I program player mechanics, enemy AI and the systems that make a game feel good to play, and I design the levels where all of that happens. I've shipped games in teams of 2 to 8 people, always using Git for version control.
+I focus on two things: **gameplay programming** and **level design**. I program the mechanics that make a game feel good to play, and I design the levels where those mechanics are put to the test. I've shipped games in teams of 2 to 8 people, always using Git for version control.
 
-- 🎮 **Gameplay:** shooting, movement, waves, power-ups, bosses, object pooling
-- 🤖 **Game AI:** behavior trees, state machines, pathfinding, line of sight
-- 🌐 **Multiplayer:** Photon PUN2 (lobbies, rooms, online sync)
-- 🗺️ **Level design:** blockouts, pacing, encounters and level flow
+### 🎮 Gameplay programming
+- Player mechanics: movement, shooting, power-ups and reward systems
+- Enemy behavior, wave spawning and boss encounters
+- Clean C# in Unity, built to be tweaked fast during playtesting (object pooling, persistent settings)
 
-🎯 Looking for **internships, junior gameplay / level design roles or indie collaborations**.
+### 🗺️ Level design
+- Blockouts, pacing, encounter design and level flow
+- Arenas, mazes and exploration spaces that guide the player without words
+- 100% of the map in *The Secret Dungeon* (UE5) and sole level designer in *Galactic Defenders*
+
+<sub>Also experienced with game AI (behavior trees, pathfinding) and online multiplayer (Photon PUN2).</sub>
+
+🎯 Looking for **junior Gameplay Programmer or Level Designer roles, internships and indie collaborations**.
 
 ---
 
