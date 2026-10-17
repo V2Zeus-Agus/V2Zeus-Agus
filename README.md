@@ -83,7 +83,7 @@ I focus on two things: **gameplay programming** and **level design**. I program 
   </tr>
 </table>
 
-**Also:** **Project-Forge**, a seminar project with a team of 8 where I did level design and programmed dynamic weather events, using Git / GitHub.
+**Also:** **Deep Forge**, a seminar project with a team of 8 where I did level design and programmed dynamic weather events, using Git / GitHub.
 
 👉 Full details on every project in my **[portfolio](https://v2zeus-agus.github.io/#projects)**.
 
