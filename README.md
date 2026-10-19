@@ -27,8 +27,8 @@ Retro 2D space shooter · Unity / C# · Team of 4<br>
 <b>Lead programmer (~60% of the code) and sole level designer.</b> Enemy AI, waves, power-ups, bosses, object pooling and persistent settings.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/V2Zeus-Agus/Extract-or-Die"><img src="https://img.itch.zone/aW1nLzMwMDU0ODIzLnBuZw==/315x250%23c/7VSOwh.png" width="100%" alt="Extract or Die"></a>
-<h3><a href="https://github.com/V2Zeus-Agus/Extract-or-Die">Extract or Die</a></h3>
+<a href="https://github.com/SantiNaza/JuegosRedTP1"><img src="https://img.itch.zone/aW1nLzMwMDU0ODIzLnBuZw==/315x250%23c/7VSOwh.png" width="100%" alt="Extract or Die"></a>
+<h3><a href="https://github.com/SantiNaza/JuegosRedTP1">Extract or Die</a></h3>
 Online co-op extraction shooter · Unity / Photon PUN2 · Team of 5<br>
 <b>Networking and UI programming.</b> Co-op for up to 5 players with a revive system.
 </td>
