@@ -4,7 +4,7 @@
 
 ### Gameplay Programmer & Level Designer · Unity · C#
 
-Advanced Game Development student at **UADE** (Buenos Aires, Argentina) · Available full-time · EU work authorization
+Advanced Game Development student at **UADE** (Buenos Aires, Argentina) · Available full-time
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F2B134?style=for-the-badge&logo=githubpages&logoColor=111318)](https://v2zeus-agus.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADn-daniel-vigo-652928181/)
