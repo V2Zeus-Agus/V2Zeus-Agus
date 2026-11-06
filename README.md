@@ -54,7 +54,12 @@ Grid movement, explosions and power-ups.
 First-person exploration · Unreal Engine 5 · Team of 4<br>
 <b>Level designer:</b> 100% of the map and interactive traps in Blueprints.
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/V2Zeus-Agus/Lost_Signal">Lost_Signal</a> <sub>(prototype)</sub></h3>
+First-person 3D survival on Mars · Unity 6 / C# · Solo<br>
+<b>Solo developer (all code, design and level layout).</b> Oxygen survival, resource gathering, upgrades, enemy nests with spawners and melee enemy AI, built around design patterns. 3D assets by <a href="https://itch.io/profile/kaylousberg">Kay Lousberg</a>.<br>
+<a href="https://zeus-agus.itch.io/lost-signal">itch.io page</a>
+</td>
 </tr>
 </table>
 
